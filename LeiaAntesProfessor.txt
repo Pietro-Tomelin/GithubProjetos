@@ -1,0 +1,7 @@
+Kássio eu ainda não consegui simular o projeto na minha máquina.
+
+Fiz o código me baseando no que nossa equipe fez na última aula, apenas dei uma alterada nas cores e dimensões/espaçamentos dos textos.
+
+Não tenho certeza se vai rodar, espero que entenda.
+
+Se quiser me dar mais um tempo pra mim tentar resolver e entregar semana que vem, podemos conversar daí.
